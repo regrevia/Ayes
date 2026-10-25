@@ -245,3 +245,7 @@ mv "$HOME/.codex/skills/ayes-local" "$HOME/.codex/skills/ayes-local.backup.$(dat
 - 本地视觉增强依赖 Ollama 和视觉模型。
 - OCR 和视觉模型不能保证理解所有复杂画面。
 - 8 小时长跑压测清单已提供，但是否完成取决于发行方实际执行。
+
+## License
+
+MIT. See [LICENSE](LICENSE).
